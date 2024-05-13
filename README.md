@@ -1,3 +1,3 @@
 # BA_Boersenueberischt
 
-## Hier ist die gesamte Boersenuebersicht.xlsx ergänzend zu der Bachelorarbeit abrufbar.
+## Hier ist die gesamte Boersenuebersicht.xlsx der Bachelorarbeit verfügbar.
